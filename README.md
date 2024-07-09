@@ -1,2 +1,22 @@
-# Bot-reply-to-MD-messages
-Bot to respond to the messages that your discord bot receives!
+# Your bot receives messages but you can't read them, this is the solution!
+
+This is a tutorial how to use
+
+# Pip install 
+```python
+pip install discord 
+pip install requests
+```
+
+# Webhook 
+
+```python
+webhook_url = 'https://discord.com/api/webhooks/ID/TOKEN'
+Example: webhook_url = 'https://discord.com/api/131231313131/asvsdfwrwd'
+Or copy an paste your webhook!
+```
+
+This is created for educational purposes!
+
+
+# Contact me: dosceroseis
