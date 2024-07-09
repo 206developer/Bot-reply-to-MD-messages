@@ -26,5 +26,11 @@ Or copy an paste your webhook!
 
 This is created for educational purposes!
 
+Version only in spanish
+
+Commands: 
+
+!responder (id) message
+
 
 # Contact me: dosceroseis
